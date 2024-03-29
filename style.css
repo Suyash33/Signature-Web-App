@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,400;0,700;1,400&family=Cagliostro&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.navbar h1 {
+
+    font-weight: bold;
+    font-family: "Cagliostro", sans-serif;
+    font-weight: 2800;
+    font-style: normal;
+
+
+}
+
+.navbar {
+    margin-top: 0;
+    margin-left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    background-color: #7ec2e1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.canvas {
+    border: 2px solid black;
+}
+
+.top,
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 0 20px 0;
+}
+
+.block,
+input,
+select,
+button {
+    width: 80%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom>button {
+    margin: 10px;
+}
+
+.top>.block {
+    margin: 10px;
+}
+
+.block>p {
+    margin: 10px auto;
+    width: 50%;
+}

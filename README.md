@@ -9,11 +9,11 @@ This is a simple web application for creating and saving digital signatures.
 - Save signatures as images.
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Contributing:
 Contributions are welcome! Fork this repository, make changes, and submit a pull request. Feel free to open an issue for any suggestions or issues.
 
-# Happy coding!
+## Happy coding!

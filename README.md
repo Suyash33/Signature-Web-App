@@ -1,4 +1,4 @@
-# Signature-Web-Application
+# Signature-Web Application
 
 This is a simple web application for creating and saving digital signatures.
 
